@@ -1,0 +1,6 @@
+- Numbers are the powerful side of pyhton 
+- nasa uses python as numpy library are useful
+- Numbers are not a single object it is a group of object
+- it carrirs integer, float (like any other kang) but it contais decimal, set(with small diff), fractions, complex numbers, bollean
+- under the hood oython uses c++ compilers for numbers 
+- in python number precion is very high
